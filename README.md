@@ -6,12 +6,12 @@ Primero de todo hemos descargado el archivo.zip que nos brinda la siguiente url:
 
 ![image](https://github.com/yaracsoto88/flask_birthdays/assets/114931679/86739689-4209-4e2c-874d-81a8b83c5251)
 
-Crearemos el entorno de desarrollo .venv para poder empezar a trabajar.
+Crearemos el entorno de desarrollo .venv para poder empezar a trabajar
 ![image](https://github.com/yaracsoto88/flask_birthdays/assets/114931679/9bac71f3-41e0-479f-af8c-5086b9c17631)
 
-Tendremos que descomprimir el archivo y colocarlo en el entorno de Python creado. 
+Tendremos que descomprimir el archivo y colocarlo en el entorno de Python creado
 
-![image](https://github.com/yaracsoto88/flask_birthdays/assets/114931679/4eda5a7e-ffd8-4511-9d60-be2d18af4783)
+![image](https://github.com/yaracsoto88/flask_birthdays/assets/114931679/713de87c-da55-4987-9ffc-760fadc22ec1)
 
 Crearemos una nueva terminal y instalamos Flask
 ![image](https://github.com/yaracsoto88/flask_birthdays/assets/114931679/69b7fef0-3a0c-4b4e-a67d-32210884d9c6)

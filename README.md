@@ -13,20 +13,29 @@ Tendremos que descomprimir el archivo y colocarlo en el entorno de Python creado
 
 ![image](https://github.com/yaracsoto88/flask_birthdays/assets/114931679/713de87c-da55-4987-9ffc-760fadc22ec1)
 
-Crearemos una nueva terminal y instalamos Flask
+Crearemos una nueva terminal y instalamos Flask, ejecutando el comando `python -m pip install flask`
+
 ![image](https://github.com/yaracsoto88/flask_birthdays/assets/114931679/69b7fef0-3a0c-4b4e-a67d-32210884d9c6)
-![image](https://github.com/yaracsoto88/flask_birthdays/assets/114931679/e025bc5a-3a3d-45b3-91ff-11f683c41fb8)
+
 ![image](https://github.com/yaracsoto88/flask_birthdays/assets/114931679/79ea6047-664e-43c7-899f-66c6607db5e0)
 
-Además agregamos la librería cs50
+Además agregamos la librería cs50, ejecutando `pip install cs50`
+
 ![image](https://github.com/yaracsoto88/flask_birthdays/assets/114931679/b31f79df-0a42-457d-aa91-e5b3d96a9250)
 
-Hay que completar el código correspondiente a los archivos app.py e index.html
+
+
+_**Hay que completar el código correspondiente a los archivos app.py e index.html
+Se adjuntan ambos en el repositorio comentados.**_
+
+
 
 Y finalmente, para ejecutar la practica haremos lo siguiente:
+
 ![image](https://github.com/yaracsoto88/flask_birthdays/assets/114931679/8f323990-7452-4eb0-81ba-6b980eb0b749)
 
 Este es el resultado de la aplicación
+
 ![image](https://github.com/yaracsoto88/flask_birthdays/assets/114931679/d6638aa1-b809-493c-9284-92f971250a2f)
 
 
